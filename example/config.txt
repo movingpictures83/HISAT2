@@ -1,0 +1,2 @@
+Prefix plugins/HISAT2/example/
+Plugin HISAT2 inputfile parameters.txt outputfile S12_R1.sam
